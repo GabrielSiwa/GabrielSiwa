@@ -12,7 +12,7 @@ I love turning ideas into functional, scalable, and visually appealing digital e
 - 💻 I specialize in **Next.js**, **React**, and **TypeScript**
 - 🎨 I enjoy crafting beautiful front-end experiences with **Tailwind CSS**
 - ⚙️ I’m also comfortable working with APIs, databases, and deployment tools like **Vercel**
-- 🚀 Always learning and improving — currently exploring **AI integration** and **serverless architectures**
+- 🚀 I’m always learning and improving — currently exploring **AI integration** and **serverless architectures**
 
 ---
 
