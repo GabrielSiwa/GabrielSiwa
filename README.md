@@ -27,9 +27,9 @@ I love turning ideas into functional, scalable, and visually appealing digital e
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Express · MongoDB · Supabase · Firebase  
-**Tools:** Git · Vercel · Figma · VS Code  
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · JavaScript
+**Backend:** Node.js · MongoDB · Java · C#
+**Tools:** Git · Vercel · VS Code · Docker 
 
 ---
 
@@ -37,7 +37,6 @@ I love turning ideas into functional, scalable, and visually appealing digital e
 
 - 🌍 Portfolio: [gabriel-siwa.vercel.app](https://gabriel-siwa.vercel.app)  
 - 💼 LinkedIn: [linkedin.com/in/gabrielsiwa](https://ca.linkedin.com/in/gabrielsiwa)  
-- 📧 Email: *your-email@example.com* (replace with yours)
 
 ---
 
