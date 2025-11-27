@@ -3,7 +3,6 @@ Software Developer | Full Stack & Mobile | Automation & AI Enthusiast
 
 📍 Calgary, Alberta  
 🌐 Portfolio: [gabriel-siwa.vercel.app](https://gabriel-siwa.vercel.app)  
-🔗 LinkedIn: [linkedin.com/in/gabrielsiwa](https://ca.linkedin.com/in/gabrielsiwa)  
 
 ---
 
@@ -147,7 +146,6 @@ Various layout and UI experiments that influenced how I think about UX and compo
 
 I am always open to chatting about software development, automation, and AI / LLM projects.
 
-📫 Portfolio: [gabriel-siwa.vercel.app](https://gabriel-siwa.vercel.app)  
 🔗 LinkedIn: [linkedin.com/in/gabrielsiwa](https://ca.linkedin.com/in/gabrielsiwa)  
 
 ⚡ Passionate about automating workflows, building AI powered tools, and shipping software that actually helps people.
