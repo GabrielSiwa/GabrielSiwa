@@ -14,7 +14,7 @@ Software Developer | Full Stack & Mobile | Automation & AI Enthusiast
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -22,6 +22,7 @@ Software Developer | Full Stack & Mobile | Automation & AI Enthusiast
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)
 
 ### Backend, Data & Cloud
 
@@ -33,6 +34,10 @@ Software Developer | Full Stack & Mobile | Automation & AI Enthusiast
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Cloud-Railway-0B0D0E?logo=railway&logoColor=white)
+
+
+
 
 ### Tools & Automation
 
@@ -58,72 +63,66 @@ Right now I am:
 - Turning school, work, and side projects into clean, documented portfolio repos
 
 ---
-
 ## 📂 Featured Projects
 
-### 🧪 POTS Pharmacy Order Tracking System  
-Internal web application that tracks pharmacy orders, approvals, and statuses to reduce manual work.
+### [💼 Portfolio Remastered](https://github.com/GabrielSiwa/portfolio-remastered)
+Interactive developer portfolio with cosmic theme and custom animations, portfolio site showcasing projects, experience, and contact details.
+- **Tech:** Next.js, TypeScript, Tailwind CSS, React Context
+- Project showcase, responsive design, fast load times  
 
-- **Tech:** React, TypeScript, Node.js, REST APIs, PostgreSQL, Azure  
+### [🧪 POTS: Pharmacy Order Tracking System](https://coffee-mates.vercel.app/)
+Internal web application that tracks pharmacy orders, approvals, and statuses to reduce manual work.
+- **Tech:** React, Next.js, TypeScript, Node.js, Tailwind CSS, MongoDB, Azure AI, Google RecaptchaV2
 - **Features:** Order status tracking, approval workflow, internal dashboards  
 - **Impact:** Reduced processing time by around 30% and manual steps by around 40% for staff using the system  
 
----
-
-### 🧠 AI Accessibility Assistant  
-Mobile app that helps visually impaired users interact with content using AI.
-
-- **Tech:** React Native, TypeScript, Azure Cognitive Services, Azure OpenAI  
+### [🧠 EyeMo: AI Voice-Controlled Accessibility](https://coffee-mates.vercel.app/)
+Tap-activated voice commands, OCR and scene analysis for visual accessibility, app that helps visually impaired users interact with content using AI.
+- **Tech:** React Native, Expo, Azure, OpenAI, TypeScript
 - **Features:** Text to speech, AI powered assistance, accessibility focused flows  
 
----
+### [🔢 Sort Visual: Sorting Algorithm Visualizer](https://github.com/GabrielSiwa/VizSorter)
+Interactive visualization of sorting algorithms  
+- **Tech:** Java, Flask, JavaScript, HTML, CSS
 
-### 💼 Professional Portfolio  
-Personal portfolio site showcasing projects, experience, and contact details.
+### [☕ Coffee Mates: Capstone Project Overview Website](https://github.com/GabrielSiwa/coffee-mates/)
+Showcase website for Coffee Mates group projects  
+- **Tech:** Next.js, TypeScript, Tailwind CSS
 
-- **Tech:** Next.js, TypeScript, Tailwind CSS, Vercel  
-- **Features:** Project showcase, responsive design, fast load times  
+### 🧾 Studdy: Task Manager
+Task Management App that uses Local Storage for Offline Access  
+- **Tech:** React Native, Expo, TypeScript
 
----
-
-### 📡 LPG Monitoring IoT System  
-IoT project to monitor LPG levels and send alerts for safety.
-
-- **Tech:** ESP32, sensors, C or C++ (microcontroller), simple web dashboard  
-- **Features:** Real time monitoring, threshold alerts, basic web interface  
-
----
-
-### 🧾 Equipment Management System – C# / .NET MAUI  
-Equipment tracking app with create, update, and lookup flows.
-
-- **Tech:** C#, .NET MAUI, SQL Server  
+### [🏗️ Equipment Village: Rental Management System](https://github.com/GabrielSiwa/Village-Rental)
+Rental management system to manage equipment, customers, rentals, and reports. Equipment tracking app with create, update, and lookup flows.
+- **Tech:** C#, .NET MAUI, Blazor (Razor Components), XAML, SQL Server (LocalDB)
 - **Features:** Equipment CRUD, categories and status, cross platform UI  
 
----
-
-### 📚 Library Management Application – Python  
-Console or desktop style app for simple library operations.
-
-- **Tech:** Python, CSV or file based storage  
-- **Features:** Search by title / author / ISBN / genre, borrowing and availability tracking  
-
----
-
-### 🐕 Dog Assignment  
-Early project that practices core programming logic and simple UI interactions.
-
-- **Tech:** HTML, CSS, JavaScript (or your actual stack for this project)  
-- **Features:** Basic forms or interactions, structured problem solving  
-
----
+### [🐕 Delilah: Doggy Daycare](https://github.com/GabrielSiwa/Delilah-Doggy-Daycare)
+Static site with booking and contact pages for a doggy daycare  
+- **Tech:** HTML, CSS, JavaScript
+- **Features:** Basic forms or interactions, structured problem solving
 
 ### 🎨 Designs & UI Experiments  
 Various layout and UI experiments that influenced how I think about UX and component design.
 
-- **Tech:** HTML, CSS, JavaScript, design tools  
+- **Tech:** Figma
 - **Features:** Responsive layouts, component experiments, styling practice  
 
+### [📚 Library Management System](https://github.com/GabrielSiwa/Library-Management-System)
+Console-based library catalog with CSV persistence
+- **Tech:** Python, CSV
+- **Features:** Search by title / author / ISBN / genre, borrowing and availability tracking  
+
+### 📡 LPG Monitoring IoT System  
+IoT project to monitor LPG levels and send alerts for safety.
+
+- **Tech:** ESP32, sensors, C or C++ (microcontroller), simple web dashboard, C++, PCB
+- **Features:** Real time monitoring, threshold alerts, basic web interface  
+
+### 🧾 Purchase Order Web Application
+Modern reactive web app built with Svelte framework  
+- **Tech:** Svelte, Java, PostgreSQL, Argon2, JavaScript
 ---
 
 ## 📊 GitHub Stats
