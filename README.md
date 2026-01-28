@@ -52,8 +52,8 @@ Software Developer | Full Stack & Mobile | Automation & AI Enthusiast
 
 ## 🧠 About Me
 
-I am a full stack & mobile developer who likes automating repetitive workflows for internal teams.  
-Most of my projects focus on turning manual steps into reliable web or mobile apps, scripts, or AI powered helpers.
+I build full-stack systems with real-time updates, analytics dashboards, and production-ready deployments (Docker, CI/CD, Azure/AWS).
+Learning how to autoamate, system design and what technologies to use to certain scenarios
 
 Right now I am:
 
@@ -147,4 +147,4 @@ I am always open to chatting about software development, automation, and AI / LL
 
 🔗 LinkedIn: [linkedin.com/in/gabrielsiwa](https://ca.linkedin.com/in/gabrielsiwa)  
 
-⚡ Passionate about automating workflows, building AI powered tools, and shipping software that actually helps people.
+⚡ Passionate about Developing full stack web apps, building AI powered tools, and shipping software that actually helps people.
